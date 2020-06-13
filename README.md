@@ -7,7 +7,7 @@ Simple python utilities to play around with PDF Files
 3. Rotate complete PDF
 4. Merge multiple PDFs
 
-## Pre-requisites for running the appliaction
+## Pre-requisites for running the application
 1. Python3
 2. Pip3
 3. PyPDF2 library (```sudo pip3 install PyPDF2```)
